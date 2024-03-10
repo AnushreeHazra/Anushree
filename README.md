@@ -15,4 +15,4 @@ This is an prediction model for the Employee Attrition dataset.
 In this project I show the concepts in project that is:
 
 Understanding data. Preprocessing data. Analysis the data. 
-Check Accuracy by ML Algorithms .Plotting Datapoints >Predict Model
+Check Accuracy by ML Algorithms. Plotting Datapoints. Predict Model.
